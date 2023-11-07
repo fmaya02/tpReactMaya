@@ -12,4 +12,4 @@ Para correr localmente:
 * npm run dev
 
 Para acceder en vercel:
-
+https://tp-react-maya-facundos-projects-9732bb86.vercel.app/
