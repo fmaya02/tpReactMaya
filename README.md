@@ -7,9 +7,9 @@ Año: 2023
 ## Instrucciones de ejecución
 
 Para correr localmente:
-1- Abrir terminal en la carpeta donde se haya clonado el repositorio
-2- npm i
-3- npm run dev
+* Abrir terminal en la carpeta donde se haya clonado el repositorio
+*  npm i
+* npm run dev
 
 Para acceder en vercel:
 
